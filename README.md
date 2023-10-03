@@ -1,13 +1,10 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/dayvidcristianosilva/dayvidcristianosilva/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">cI ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<div align="center" style="margin-bottom: 100px;">
+  <img src="https://streak-stats.demolab.com?user=dayvidcristianosilva&theme=transparent&hide_border=&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayvidcristiano" alt="Anurag's GitHub stats" style="display: inline-block;">
+</div>
 
-<div  align="center" style="margin-bottom:100px">
-[![GitHub Streak](https://streak-stats.demolab.com?user=dayvidcristianosilva&theme=transparent&hide_border=&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvidcristiano)](https://github.com/dayvidcristiano/github-readme-stats)
- </div>
  
  &nbsp;
  &nbsp;
@@ -35,8 +32,10 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+)&nbsp;
+![NODE](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+)&nbsp;
 
 #### Databases:
 
@@ -50,6 +49,10 @@
 
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
+)&nbsp;
+
+
 
 &nbsp;
 &nbsp;

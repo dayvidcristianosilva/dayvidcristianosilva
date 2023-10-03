@@ -5,8 +5,8 @@
 <p align="center">cI ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dayvidcristianosilva&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-dayvidcristianosilva.vercel.app/api/top-langs/?username=dayvidcristianosilva&show_icons=true&theme=radical&layout=compact" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=dayvidcristianosilva&theme=transparent&hide_border=&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvidcristiano)](https://github.com/dayvidcristiano/github-readme-stats)
  </div>
  
  &nbsp;

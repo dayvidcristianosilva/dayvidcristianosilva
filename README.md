@@ -1,7 +1,7 @@
 
 
 <div align="center" style="margin-bottom: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayvidcristiano" alt="Anurag's GitHub stats" style="display: inline-block;">
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayvidcristianosilva&layout=compact)">
 </div>
 
  
